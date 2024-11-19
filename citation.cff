@@ -1,9 +1,9 @@
-cff-version: "0.1.0"
+cff-version: "1.0.0"
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: Roantree
   given-names: Luke Francis
 orcid: "https://orcid.org/0000-0003-3986-4490"
 title: "Queer Gan Teanga: Data and Analysis Utilities"
-version: "v0.1.0"
+version: "v1.0.0"
 date-released: "2024-11-19"
