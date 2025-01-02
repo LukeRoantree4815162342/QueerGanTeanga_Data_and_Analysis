@@ -7,6 +7,9 @@ The intersection of Irish-speaking and LGBTQIA+ communities in Northern Ireland_
 
 (in preparation for submission to the Irish Journal of Sociology)
 
+[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.146483.svg)](https://handle.stage.datacite.org/10.5072/zenodo.146483) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LukeRoantree4815162342/QueerGanTeanga_Data_and_Analysis/HEAD?labpath=analysis_utilities%2FQGT_data_analysis_examples.ipynb)
+
 ---
 
 #### Requirements:
@@ -29,9 +32,9 @@ Alternatively, you can interact with the data and code examples in the cloud via
 
 #### Attribution:
 
-If you use these datasets or utilities as a basis for further research, or to validate / investigate the findings of our 'Queer gan teanga, queer gan anam' research paper, please cite the Zenodo deposit (link below) of this repository as follows;
+If you use these datasets or utilities as a basis for further research, or to validate / investigate the findings of our 'Queer gan teanga, queer gan anam' research paper, please cite the Zenodo deposit (link at top of README) of this repository as follows;
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LukeRoantree4815162342/QueerGanTeanga_Data_and_Analysis/HEAD?labpath=analysis_utilities%2FQGT_data_analysis_examples.ipynb) (TODO: update to zenodo DOI badge)
+(TODO: update to real zenodo DOI badge)
 
 ###### Bibtex:
 ```
