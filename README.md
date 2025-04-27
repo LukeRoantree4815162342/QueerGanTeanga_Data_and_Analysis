@@ -43,8 +43,8 @@ If you use these datasets or utilities as a basis for further research, or to va
   year = {2024},
   month = {12},
   howpublished = {Deposit on Zenodo},
-  url = {[https://doi.org/10.5281/zenodo.15292806](https://doi.org/10.5281/zenodo.15292806)},
-  doi = {[https://doi.org/10.5281/zenodo.15292806](https://doi.org/10.5281/zenodo.15292807)},
+  url = {https://doi.org/10.5281/zenodo.15292806},
+  doi = {https://doi.org/10.5281/zenodo.15292807},
   keywords = {Irish Language, LGBTQIA+, intersecting communities, statistical analysis, quantitative analysis, census}
 }
 ```
